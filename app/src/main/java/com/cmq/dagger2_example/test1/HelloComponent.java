@@ -1,4 +1,4 @@
-package com.cmq.dagger2_example;
+package com.cmq.dagger2_example.test1;
 
 import javax.inject.Singleton;
 
